@@ -1,0 +1,11 @@
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\ContosoExpenses.Data.dll
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\ContosoExpenses.Data.pdb
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\Bogus.dll
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\LiteDB.dll
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\Bogus.pdb
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\Bogus.xml
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\LiteDB.xml
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\ContosoExpenses.Data.csprojAssemblyReference.cache
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\ContosoExpenses.Data.csproj.CopyComplete
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\ContosoExpenses.Data.dll
+C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\ContosoExpenses.Data.pdb
