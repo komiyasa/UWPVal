@@ -1,0 +1,12 @@
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\ContosoExpenses.csprojAssemblyReference.cache
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\AboutView.baml
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\AboutView.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\AddNewExpense.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\ExpenseDetail.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\ExpensesList.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\Views\MainWindow.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\App.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\ContosoExpenses_Content.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\ContosoExpenses_MarkupCompile.cache
+C:\UWPVal\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise2\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\ContosoExpenses_MarkupCompile.lref
