@@ -13,6 +13,8 @@
 // ******************************************************************
 
 using System.Windows;
+using Microsoft.Toolkit.Win32.UI.Controls.Interop.WinRT;
+
 
 namespace ContosoExpenses.Views
 {
@@ -24,6 +26,8 @@ namespace ContosoExpenses.Views
         public ExpenseDetail()
         {
             InitializeComponent();
+            Signature.InkPresenter.InputDeviceTypes = CoreInputDeviceTypes.Mouse | CoreInputDeviceTypes.Pen;
+
         }
     }
 }

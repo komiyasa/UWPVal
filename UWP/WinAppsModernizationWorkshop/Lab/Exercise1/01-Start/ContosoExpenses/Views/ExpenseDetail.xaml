@@ -18,7 +18,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:toolkit="clr-namespace:Microsoft.Toolkit.Wpf.UI.Controls;assembly=Microsoft.Toolkit.Wpf.UI.Controls"
         xmlns:converters="clr-namespace:ContosoExpenses.Converters"
+        
         DataContext="{Binding Source={StaticResource ViewModelLocator}, Path=ExpensesDetailViewModel}"
         xmlns:local="clr-namespace:ContosoExpenses"
         mc:Ignorable="d"
@@ -68,6 +70,11 @@
                 <TextBlock Text="Location:" FontSize="16" FontWeight="Bold" />
                 <TextBlock Text="{Binding Path=Location}" FontSize="16" Margin="5, 0, 0, 0" />
             </StackPanel>
+
+            <TextBlock Text="Signature:" FontSize="16" FontWeight="Bold" Grid.Row="5" />
+
+            <toolkit:InkCanvas x:Name="Signature" Grid.Row="6" />
+
         </Grid>
 
         <!-- Chart -->

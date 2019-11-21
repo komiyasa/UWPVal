@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\
+C:\UWPVal\UWPVal\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses\obj\Debug\netcoreapp3.0\
 ContosoExpenses.Core
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
-C:\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses\App.xaml
+C:\UWPVal\UWPVal\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses\App.xaml
 5-1173738681
-
+5-1249099894
 21-648869632
-192-1037106189
+3092096748711
 Views\AboutView.xaml;Views\AddNewExpense.xaml;Views\ExpenseDetail.xaml;Views\ExpensesList.xaml;Views\MainWindow.xaml;
 
 False

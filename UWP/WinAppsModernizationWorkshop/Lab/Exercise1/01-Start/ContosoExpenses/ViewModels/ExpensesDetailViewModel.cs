@@ -1,5 +1,7 @@
 ﻿using ContosoExpenses.Data.Services;
 using GalaSoft.MvvmLight;
+using Microsoft.Toolkit.Win32.UI.Controls.Interop.WinRT;
+
 
 namespace ContosoExpenses.ViewModels
 {
@@ -41,6 +43,7 @@ namespace ContosoExpenses.ViewModels
             Description = expense.Description;
             Location = expense.Address;
             Amount = expense.Cost;
+
         }
     }
 }
