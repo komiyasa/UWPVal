@@ -1,0 +1,12 @@
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.deps.json
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.dll
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.csprojAssemblyReference.cache
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.pdb
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.dll
+C:\UWP2\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.pdb
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.deps.json
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.dll
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\bin\Debug\netstandard2.0\ContosoExpenses.Data.pdb
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.csprojAssemblyReference.cache
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.dll
+C:\Users\komiyasa\Val\03UWP\UWPVal\UWP\WinAppsModernizationWorkshop\Lab\Exercise1\01-Start\ContosoExpenses.Data\obj\Debug\netstandard2.0\ContosoExpenses.Data.pdb
